@@ -190,7 +190,7 @@
 
   (footprint "keyboard-footprints:chocV1_reversible" (layer "F.Cu")
     (tstamp 2f215f15-3d52-4c91-93e6-3ea03a95622f)
-    (at 258.03 143.99 -90)
+    (at 258.03 144.49 -90)
     (attr through_hole)
     (fp_text reference "S9" (at 3.414874 -0.168488) (layer "F.SilkS")
         (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -837,7 +837,7 @@
 
   (footprint "keyboard-footprints:chocV1_reversible" (layer "F.Cu")
     (tstamp d7269d2a-b8c0-422d-8f25-f79ea31bf75e)
-    (at 275.03 143.99 90)
+    (at 275.03 144.49 90)
     (attr through_hole)
     (fp_text reference "S10" (at -3.414874 0.168488 180) (layer "F.SilkS")
         (effects (font (size 1.27 1.27) (thickness 0.15)))
